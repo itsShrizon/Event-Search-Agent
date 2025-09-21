@@ -1,8 +1,5 @@
 # event_search_agent.py
-# A more dynamic event search assistant using LangChain's Tool Calling feature.
-
 import os
-import datetime
 import logging
 import difflib
 from dataclasses import dataclass
